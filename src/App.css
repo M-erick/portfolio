@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
